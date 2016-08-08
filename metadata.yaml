@@ -1,0 +1,26 @@
+_repo: A-Walk-from-London-to-John-O-Groat-s--13-With-Notes-by-the-Way_12000
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Burritt, Elihu
+    birthdate: 1810
+    deathdate: 1879
+    gutenberg_agent_id: '4167'
+    url: http://www.gutenberg.org/2009/agents/4167
+    wikipedia: http://en.wikipedia.org/wiki/Elihu_Burritt
+description: ''
+gutenberg_issued: '2004-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12000'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'England -- Description and travel'
+- !lcc 'DA'
+- !lcsh 'Agriculture -- Great Britain'
+- GITenberg
+title: "A Walk from London to John O'Groat's\r\nWith Notes by the Way"
+url: http://www.gutenberg.org/ebooks/12000
